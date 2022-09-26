@@ -1,0 +1,18 @@
+= asdf-kubelogin
+
+image:https://github.com/passionne/asdf-kubelogin/actions/workflows/build.yml/badge.svg[link=https://github.com/passionne/asdf-kubelogin/actions/workflows/build.yml]
+image:https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg[link=https://conventionalcommits.org]
+image:https://badgen.net/github/dependabot/passionne/asdf-kubelogin[]
+image:https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit[pre-commit, link=https://github.com/pre-commit/pre-commit]
+
+https://github.com/Azure/kubelogin[kubelogin] plugin for https://github.com/asdf-vm/asdf[asdf] version manager
+
+== Install
+
+```
+asdf plugin-add kubelogin https://github.com/passionne/asdf-kubelogin.git
+```
+
+== Contributing
+
+If you're looking to contribute, you can find additional information in link:CONTRIBUTING.adoc[here].
